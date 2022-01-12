@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+h1 {
+  margin: 3.125rem auto 0 auto;
+  font-family: 'The Nautigal', cursive;
+  color: #1A5F7A;
+  
+  font-size: 5.625rem;
+  
+}
+h2 {
+  font-weight: normal;
+  color: #1A5F7A;
+
+    font-size: 2.5rem;
+    font-family: "Luxurious Roman", cursive;
+}
+h3 {
+  color: #086E7D;
+}
+a {
+  color: #086E7D;
+  text-decoration: none;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 9px;
+  border-color: #FFC900;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+.top-container {
+  background-color: #fff89a;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+
+.bottom-container {
+  margin-top: 50px;
+  background-color: #FFC900;
+  margin-bottom: 0px;
+  padding: 30px;
+  
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  
+
+}
+.skill-img {
+  margin-right: 30px;
+  width: 25% ;
+  float: left;
+}
+.skill-img-1 {
+  margin-left: 30px;
+  width: 25% ;
+  float: right;
+}
+#bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+#top-cloud {
+  position: absolute;
+  top: 50px;
+
+  right: 300px;
+}
+#Pavan {
+  width: 150px;
+  border-radius: 36%;
+}
+.contact-me{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.btn {
+  background: #FFF89A;
+  background-image: -webkit-linear-gradient(top, #FFF89A, #FFC900);
+  background-image: -moz-linear-gradient(top, #FFF89A, #FFC900);
+  background-image: -ms-linear-gradient(top, #FFF89A, #FFC900);
+  background-image: -o-linear-gradient(top, #FFF89A, #FFC900);
+  background-image: linear-gradient(to bottom, #FFF89A, #FFC900);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Courier New;
+  color: #1A5F7A;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link {
+  color: #FFF89A;
+  margin: 30px
+  
+}
+#surname {
+  margin-bottom: 0;
+  color: #1A5F7A;
+}
+#contactstuff{
+  margin-bottom: 50px;
+}
+a:hover {
+  color: black;
+}
